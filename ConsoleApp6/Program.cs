@@ -10,6 +10,7 @@ namespace ConsoleApp6
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello");
             Console.WriteLine("Hiii");
+            Console.WriteLine("Hello World! 1");
             Console.ReadLine();
         }
     }
